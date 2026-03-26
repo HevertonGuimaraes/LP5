@@ -1,4 +1,5 @@
-## Crie um algoritmo que solicite ao usuário uma cor (vermelho, verde, azul) e exiba uma mensagem correspondente à cor escolhida.
+## Crie um algoritmo que solicite ao usuário uma cor (vermelho, verde, azul) e exiba uma mensagem 
+# correspondente à cor escolhida.
 
 cor = input("Digite uma cor (vermelho, verde, azul): ").lower()
 
